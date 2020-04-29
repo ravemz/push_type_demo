@@ -6,7 +6,7 @@ This app demonstrates some common patterns for structuring and modeling content 
 
 The demo can be deployed to Heroku for free...
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pushtype/push_type_demo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ravemz/push_type_demo)
 
 Oncee the app is launched, browse the site and review the code in this repository (*and read the comments*) to learn how it works.
 
