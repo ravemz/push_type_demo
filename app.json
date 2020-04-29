@@ -5,6 +5,7 @@
   "website": "http://www.pushtype.org/",
   "repository": "https://github.com/pushtype/push_type_demo",
   "logo": "http://www.pushtype.org/assets/pushtype-logo.png",
+  "stack": "heroku-16",
   "scripts": {
     "postdeploy": "bundle exec rake db:migrate db:seed"
   }
